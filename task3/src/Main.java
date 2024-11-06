@@ -3,9 +3,9 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
         // Create Persons
-        Person writer1 = new Person(1, "John", "Doe", 40);
-        Person actor1 = new Person(2, "Jane", "Smith", 35);
-        Person director1 = new Person(3, "Bob", "Brown", 50);
+        Person writer1 = new Person(1, "berke", "nurcan", 40);
+        Person actor1 = new Person(2, "berra", "talha", 35);
+        Person director1 = new Person(3, "adem", "mehmet", 50);
 
         // Create Categories
         Category category1 = new Category(1, "FIC", "Fiction");
